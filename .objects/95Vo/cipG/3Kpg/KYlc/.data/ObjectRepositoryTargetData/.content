@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NYAsnvL7y0SWHQ4X-CqBVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="e36ea6b5-2f75-401e-868a-2fe562af123b" CvType="AnyWordGroup" DesignTimeRectangle="893, 493, 26, 18" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Invoice *.pdf' role='document' /&gt;&lt;ctrl name='PDF Document' role='document' /&gt;&lt;ctrl name='PDF document containing 1 page' role='document' /&gt;&lt;ctrl name='Page 1' role='pane' /&gt;&lt;ctrl idx='15' role='row' /&gt;&lt;ctrl name='*' role='cell' idx='2' /&gt;&lt;ctrl role='grouping' /&gt;" Guid="ead0998b-d5af-4245-bd6f-a7888d9eb7fe" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Invoice *.pdf and 1 more page - Work - Microsoft​ Edge' /&gt;" SearchSteps="Selector, CV" SelectionStrategy="AA" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e36ea6b5-2f75-401e-868a-2fe562af123b" CvTextArea="371, 493, 549, 18" CvTextArgument="Total 2173" CvType="Text" DesignTimeRectangle="372, 493, 547, 18" FuzzyAccuracy="0.82" FuzzySelectorArgument="&lt;ctrl name='Invoice *.pdf' role='document' /&gt;&lt;ctrl name='PDF Document' matching:name='fuzzy' fuzzylevel:name='0.0' role='document' /&gt;&lt;ctrl name='PDF document containing 1 page' matching:name='fuzzy' fuzzylevel:name='0.0' role='document' /&gt;&lt;ctrl name='Page 1' matching:name='fuzzy' fuzzylevel:name='0.0' role='pane' /&gt;&lt;ctrl automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' role='row' check:fulltext='Total *' /&gt;" Guid="30c56cab-7878-4216-a595-7ad9b942cb6b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="607d3147349e6163e0597f796423b0b3.jpg" xmlns="">0cjO5TkSNi0SYVIv1uF5juw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

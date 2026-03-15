@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cMGeclK1kEmfi7_MFgnrAA" Reference="ZdRlnpYZf0miwDWpTo2V-w/3h1yb_qqjUeVMSFv5Kq2tg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c5bb6934-6b1c-4c01-b2b2-3e5193b2ac08" DesignTimeRectangle="808, 281, 212, 38" ElementVisibilityArgument="Visible" FullSelectorArgument="&lt;ctrl name='Invoice *.pdf' role='document' /&gt;&lt;ctrl name='PDF Document' role='document' /&gt;&lt;ctrl name='PDF document containing 1 page' matching:name='fuzzy' fuzzylevel:name='0.0' role='document' /&gt;&lt;ctrl name='Page 1' role='pane' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Sample Invoice ' matching:name='fuzzy' fuzzylevel:name='0.85' role='cell' /&gt;&lt;ctrl role='grouping' /&gt;" Guid="6a3e93ca-507d-4aff-8c3c-608a756a5c57" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Invoice *'  /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="754ddf2d540df1bf3a1cae0edb28aa21.jpg" xmlns="">0HvVN2xUp6EaGto2rJZIVqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

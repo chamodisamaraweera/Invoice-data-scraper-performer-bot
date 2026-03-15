@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Invoice .pdf(1)",
+  "Type": "Screen",
+  "Id": "kGFEwOEpxU67Tk5woY_0iw",
+  "Reference": "ZdRlnpYZf0miwDWpTo2V-w/kGFEwOEpxU67Tk5woY_0iw",
+  "ParentRef": "ZdRlnpYZf0miwDWpTo2V-w/cipGgEQ7c0ClI4ApG6zWLQ",
+  "Created": "2026-03-12T20:15:18.248811Z",
+  "Updated": "2026-03-12T20:15:18.248811Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

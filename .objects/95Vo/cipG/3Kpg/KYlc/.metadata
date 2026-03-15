@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Total 2173",
+  "Type": "Element",
+  "Id": "KYlcIfS2XEaJ3qnKMAC0IQ",
+  "Reference": "ZdRlnpYZf0miwDWpTo2V-w/KYlcIfS2XEaJ3qnKMAC0IQ",
+  "ParentRef": "ZdRlnpYZf0miwDWpTo2V-w/3KpglB3Jb0eW3GOXURtuvg",
+  "Created": "2026-03-12T15:53:36.0527944Z",
+  "Updated": "2026-03-12T15:53:36.0527944Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

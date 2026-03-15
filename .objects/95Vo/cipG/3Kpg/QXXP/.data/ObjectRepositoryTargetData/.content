@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sG1rnXes9Ei3pVxHFRx2Zw" Reference="ZdRlnpYZf0miwDWpTo2V-w/QXXPVRRIlkuj83iUKxLqRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="38065150-0a20-43d5-9d8e-d5116b74b6f7" CvType="AnyWordGroup" DesignTimeRectangle="878, 400, 34, 18" ElementVisibilityArgument="Interactive" FuzzyAccuracy="0.82" FuzzySelectorArgument="&lt;ctrl name='Invoice *.pdf' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='PDF Document' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='PDF document containing 1 page' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Page 1' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='11898 ' role='cell' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl role='grouping' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="fae2ecc0-fdaf-44e0-a440-e222c084ccd3" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Invoice *.pdf - Work - Microsoft​ Edge' /&gt;" SearchSteps="FuzzySelector, CV" SelectionStrategy="AA" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="38065150-0a20-43d5-9d8e-d5116b74b6f7" CvTextArea="877, 376, 116, 15" CvTextArgument="Invoice Number" CvType="Text" DesignTimeRectangle="878, 380, 114, 18" FuzzyAccuracy="0.89" FuzzySelectorArgument="&lt;ctrl name='Invoice *.pdf' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='PDF Document' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='PDF document containing 1 page' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Page 1' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Invoice Number ' role='cell' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl role='grouping' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Invoice Number' /&gt;" Guid="2e666372-2192-4428-9b35-c501626b7daf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0b4f6e4a9f321a68c91e637776959750.jpg" xmlns="">0RACIB-b6Eku84a-kgO7gzQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

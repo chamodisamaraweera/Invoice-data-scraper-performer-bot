@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Invoice Number",
+  "Type": "Element",
+  "Id": "1222-PPaFUCfhBXd0lXG2A",
+  "Reference": "ZdRlnpYZf0miwDWpTo2V-w/1222-PPaFUCfhBXd0lXG2A",
+  "ParentRef": "ZdRlnpYZf0miwDWpTo2V-w/3KpglB3Jb0eW3GOXURtuvg",
+  "Created": "2026-03-12T04:33:22.9030455Z",
+  "Updated": "2026-03-12T04:33:22.9030455Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
